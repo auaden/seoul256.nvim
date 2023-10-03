@@ -86,8 +86,8 @@ M.editor = {
     SpellCap = { fg = colors.blue, bg = colors.none, style = "undercurl,italic" },
     SpellLocal = { fg = colors.cyan, bg = colors.none, style = "undercurl,italic" },
     SpellRare = { fg = colors.purple, bg = colors.none, style = "undercurl,italic" },
-    StatusLine = { fg = colors.fg, bg = colors.fg },
-    StatusLineNC = { fg = colors.text, bg = colors.disabled },
+    StatusLine = { fg = colors.fg, bg = colors.bg_alt },
+    StatusLineNC = { fg = colors.text, bg = colors.fg },
     Substitute = {}, -- TODO
     TabLineFill = { fg = colors.fg },
     Tabline = { fg = colors.fg },
