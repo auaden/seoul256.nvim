@@ -1,6 +1,6 @@
 local colors = {
     black = "#dfe0e0",
-    blue = "#93b2b2",
+    blue = "#dfe0e0",
     cyan = "#c3a769",
     gray = "#dfe0e0",
     green = "#678568",
@@ -14,8 +14,8 @@ local colors = {
 
     accent = "#ce8f6b",
     active = "#545250",
-    bg = "#3a3a3a",
-    bg_alt = "#3a3a3a",
+    bg = "#4c4c4c",
+    bg_alt = "#545454",
     border = "#414863",
     contrast = "#d4d4d4",
     cursor = "#d8d8d8",
